@@ -1,0 +1,419 @@
+{
+  "business_name": "Lilac",
+  "location": "296 Kentish Town Road, Kentish Town, London Borough of Camden, London, UK (approx. 51.5511, -0.1404)",
+  "what_it_does": "Family-run neighbourhood cafe serving brunch, speciality coffee, matcha and fine tea, open seven days a week, with a distinctive lilac-coloured exterior on Kentish Town Road.",
+  "confidence_note": "OSM record confirms existence, category (cafe/coffee_shop) and location; description of menu, family ownership and opening hours comes from the provided brief, not independently verified; no live reviews or financial data available.",
+  "market_local_context": "Kentish Town is a dense residential and commercial corridor in Camden, immediately north of Camden Town and near Hampstead Heath. Kentish Town Road is a high-footfall, high-rent mixed-use street with heavy commuter, resident and weekend brunch traffic. The immediate area contains an unusually high density of food and drink outlets (40+ within 800m), including multiple direct coffee-shop competitors within 200m.",
+  "target_customers": "Local residents (families, young professionals), weekend brunch crowds, remote workers seeking speciality coffee, and commuters passing along Kentish Town Road; likely skew toward neighbourhood regulars given the family-run positioning.",
+  "competition": {
+    "summary": "Very high competitive density. Direct cafe/coffee competitors within ~200m include Hopper Coffee (69m), Café Renoir (96m), The Good Mews (133m), Mem's Cafe (163m), Neighbourhood Organic (196m) and Troy Cafe (121m), plus chains Greggs, Pret A Manger and McDonald's within 100m. Differentiated by matcha and fine tea offering, which few nearby competitors specialise in.",
+    "nearby_examples": [
+      "Hopper Coffee",
+      "Café Renoir",
+      "The Good Mews",
+      "Neighbourhood Organic",
+      "Mem's Cafe",
+      "Troy Cafe",
+      "Pret A Manger",
+      "Greggs",
+      "McDonald's",
+      "Franco Manca",
+      "The Parakeet"
+    ]
+  },
+  "strengths": [
+    "Prime position on Kentish Town Road with strong all-day footfall",
+    "Distinctive lilac exterior gives natural brand recognition and memorability",
+    "Speciality coffee plus matcha and fine tea differentiates from generic cafes and chains",
+    "Family-run character supports loyalty and personal service",
+    "Open seven days, capturing both weekday and weekend trade"
+  ],
+  "weaknesses": [
+    "Intense competition: at least six independent cafes and three major chains within 200m",
+    "High street rent corridor typical of Camden likely pressures margins (estimate)",
+    "Small independent operation may lack marketing budget and delivery/app presence versus chains",
+    "Brunch-only positioning may leave evening daypart under-monetised (unverified)"
+  ],
+  "opportunities": [
+    "Lean into matcha/fine tea niche as a destination offering, rare locally",
+    "Grow off-peak revenue via retail tea/coffee beans, takeaway and subscription",
+    "Weekend brunch demand in the area is strong; reservations/waitlist tools could capture overflow",
+    "Partnerships with nearby pubs and cultural venues; local social media presence",
+    "Delivery or click-and-collect to compete with chains without discounting"
+  ],
+  "financial_signals": [
+    {
+      "signal": "Rent corridor",
+      "assessment": "Kentish Town Road is a busy Camden high street; commercial rents are likely mid-to-high for London independents, pressuring a cafe's fixed costs. Estimate only, not a measurement.",
+      "confidence": "medium"
+    },
+    {
+      "signal": "Gross margin profile",
+      "assessment": "Typical gross margins for independent speciality coffee/brunch cafes are relatively high on drinks, lower on food; overall a workable but rent-sensitive model. General industry knowledge, not measured for this business.",
+      "confidence": "medium"
+    },
+    {
+      "signal": "Footfall",
+      "assessment": "High street location with seven-day trading and nearby transport links suggests steady all-week demand; actual revenue unknown.",
+      "confidence": "low"
+    },
+    {
+      "signal": "Competitive pressure on pricing",
+      "assessment": "Presence of Greggs, Pret and McDonald's within 100m caps takeaway price tolerance; premium positioning must be earned via quality and experience.",
+      "confidence": "medium"
+    }
+  ],
+  "online_presence_reviews": "Unverifiable with current data. No ratings, review counts or social media metrics were provided and I will not invent them. A live check of Google Maps, TripAdvisor and Instagram is recommended before any investment decision.",
+  "improvement_ladder": [
+    {
+      "tier": "operational",
+      "title": "Tighten the daily engine",
+      "detail": "Audit speed of service at peak brunch, standardise coffee/tea prep, add a simple POS with bestseller tracking, and launch a basic Google Business Profile refresh with current hours and photos.",
+      "impact": "medium",
+      "cost_estimate": "£500–£2,000",
+      "timeframe": "1–2 months"
+    },
+    {
+      "tier": "menu_service",
+      "title": "Double down on matcha and fine tea",
+      "detail": "Build a signature matcha/tea flight menu, seasonal specials, and a small retail shelf of loose-leaf tea and beans for takeaway — a niche few of the six nearby cafes occupy.",
+      "impact": "high",
+      "cost_estimate": "£1,000–£4,000",
+      "timeframe": "2–4 months"
+    },
+    {
+      "tier": "redesign",
+      "title": "Interior refresh and flow",
+      "detail": "Light-touch redesign: improve seating flow, counter presentation, lighting and a visible tea/brew bar; keep the lilac exterior as the anchor and extend the palette indoors.",
+      "impact": "high",
+      "cost_estimate": "£10,000–£35,000",
+      "timeframe": "3–6 months"
+    },
+    {
+      "tier": "rebrand",
+      "title": "Sharpen the Lilac identity",
+      "detail": "Develop a coherent brand system — logo, packaging, cups, signage, menu design — around the lilac colour and 'flower/neighbourhood' story; unify online presence and photography.",
+      "impact": "medium",
+      "cost_estimate": "£4,000–£12,000",
+      "timeframe": "3–5 months"
+    },
+    {
+      "tier": "business_model",
+      "title": "Diversify revenue beyond the table",
+      "detail": "Add click-and-collect, a weekend waitlist/reservation system, retail tea subscriptions, occasional evening events (tastings, supper clubs), and explore wholesale of house blends to nearby pubs and offices.",
+      "impact": "high",
+      "cost_estimate": "£5,000–£20,000 initial, ongoing ops cost",
+      "timeframe": "6–12 months"
+    }
+  ],
+  "brand_direction": {
+    "proposed_name": "Lilac",
+    "tagline": "Neighbourhood brunch, brewed with care.",
+    "palette": [
+      "#B49ED3",
+      "#6B4E8E",
+      "#F2E9DC",
+      "#FAF7F2",
+      "#2E2438"
+    ],
+    "typography": {
+      "heading": "Fraunces",
+      "body": "Karla"
+    },
+    "aesthetic": "Soft botanical modern: the existing lilac exterior becomes a full identity — muted purple, cream and warm neutrals, with elegant serif headings and friendly sans body text. Hand-drawn floral accents and natural textures keep it warm and family-run rather than corporate.",
+    "storefront_concept": "Keep and deepen the signature lilac facade; add brass or dark-green signage, a planted window box, warm interior lighting visible from the street, and a small retail display of tea tins and beans near the window to signal the speciality offer to passers-by."
+  },
+  "mockup_copy": {
+    "headline": "Lilac — Kentish Town's living room",
+    "subhead": "Speciality coffee, proper matcha and fine teas, served seven days a week on Kentish Town Road.",
+    "menu_items": [
+      "Lilac Matcha Latte",
+      "Weekend Brunch Board",
+      "House Blend Flat White"
+    ],
+    "review_snippet": "\"The lilac frontage is impossible to miss — and the matcha is the best on the road.\" — Representative placeholder copy; not a real review."
+  },
+  "images": [
+    {"src": "assets/lilac-storefront.png", "label": "Storefront concept — lilac Victorian frontage, brass menu board, botanical window boxes"},
+    {"src": "assets/lilac-interior.png", "label": "Interior concept — soft botanical modern: tea/matcha brew bar, oak tables, lilac accent wall"},
+    {"src": "assets/lilac-brand.png", "label": "Brand identity — logo, cups, matcha tin, menu and collateral in the proposed palette"}
+  ],
+  "_meta": {
+    "generated_at": "2026-10-16T23:34:16.270156+00:00",
+    "model": "z-ai/glm-5.3",
+    "geocode": {
+      "lat": 51.5501355,
+      "lon": -0.1408009,
+      "display_name": "Kentish Town, London Borough of Camden, Greater London, England, United Kingdom",
+      "source": "OpenStreetMap Nominatim"
+    },
+    "business_osm": {
+      "osm_id": "way/973132217",
+      "name": "Lilac",
+      "lat": 51.5510568,
+      "lon": -0.1404047,
+      "distance_m": 106,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop"
+      }
+    },
+    "competitors_found": 40,
+    "wikipedia": true,
+    "competitor_sample": [
+      {
+        "name": "Tonkotsu",
+        "distance_m": 16,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "ramen",
+          "brand": "Tonkotsu"
+        }
+      },
+      {
+        "name": "Wild IS Earth Kombucha Microbrewery",
+        "distance_m": 21,
+        "tags": {
+          "amenity": "bar",
+          "website": "https://wildisearth.com/"
+        }
+      },
+      {
+        "name": "Fruit Bowl",
+        "distance_m": 26,
+        "tags": {
+          "shop": "greengrocer"
+        }
+      },
+      {
+        "name": "Woo Tang",
+        "distance_m": 35,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "asian;chinese;korean;noodle;oriental"
+        }
+      },
+      {
+        "name": "Woo Tang",
+        "distance_m": 35,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "asian;chinese;korean;noodle;oriental"
+        }
+      },
+      {
+        "name": "kami",
+        "distance_m": 36,
+        "tags": {
+          "amenity": "restaurant",
+          "opening_hours": "Mo-Fr 12:00-15:00,17:00-22:30; Sa-Su 12:00-22:30",
+          "website": "https://www.kamilondon.com/",
+          "phone": "+44 20 7485 7078"
+        }
+      },
+      {
+        "name": "Supreme Doner Kebab",
+        "distance_m": 39,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "kebab"
+        }
+      },
+      {
+        "name": "Franco Manca",
+        "distance_m": 42,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "opening_hours": "Mo-Th,Su 12:00-22:00; Fr-Sa 12:00-23:30",
+          "website": "https://www.francomanca.co.uk/restaurants/kentish-town/",
+          "outdoor_seating": "yes",
+          "takeaway": "yes",
+          "brand": "Franco Manca"
+        }
+      },
+      {
+        "name": "Gökyüzü",
+        "distance_m": 47,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "turkish",
+          "opening_hours": "11:00-23:30",
+          "website": "https://gokyuzurestaurant.co.uk/kentish-town/",
+          "phone": "+44 20 3076 0062",
+          "outdoor_seating": "yes"
+        }
+      },
+      {
+        "name": "The Parakeet",
+        "distance_m": 47,
+        "tags": {
+          "amenity": "pub",
+          "cuisine": "gastropub",
+          "opening_hours": "Mo-Sa 12:00-24:00; Su 12:00-22:30",
+          "website": "https://theparakeetpub.com",
+          "phone": "+44 20 4599 6302"
+        }
+      },
+      {
+        "name": "Greggs",
+        "distance_m": 49,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "sandwich;bakery",
+          "takeaway": "yes",
+          "wheelchair": "yes",
+          "brand": "Greggs"
+        }
+      },
+      {
+        "name": "Pret A Manger",
+        "distance_m": 50,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "sandwich",
+          "outdoor_seating": "yes",
+          "takeaway": "yes",
+          "brand": "Pret A Manger"
+        }
+      },
+      {
+        "name": "Babuji",
+        "distance_m": 51,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "indian",
+          "opening_hours": "12:00-21:30",
+          "website": "https://babuji.co.uk",
+          "phone": "+44 20 7485 5566",
+          "outdoor_seating": "no"
+        }
+      },
+      {
+        "name": "Wenzel's",
+        "distance_m": 57,
+        "tags": {
+          "shop": "bakery",
+          "opening_hours": "Mo-Sa 07:00-17:30; Su 08:00-17:00",
+          "brand": "Wenzel's"
+        }
+      },
+      {
+        "name": "Hopper Coffee",
+        "distance_m": 69,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "opening_hours": "Mo-Fr 07:00-16:00; Sa 08:00-16:00; Su 09:00-16:00",
+          "takeaway": "yes",
+          "brand": "Hopper Coffee"
+        }
+      },
+      {
+        "name": "Creams",
+        "distance_m": 87,
+        "tags": {
+          "amenity": "ice_cream",
+          "cuisine": "ice_cream",
+          "website": "https://www.creamscafe.com/our-stores/kentish-town/",
+          "brand": "Creams"
+        }
+      },
+      {
+        "name": "Café Renoir",
+        "distance_m": 96,
+        "tags": {
+          "amenity": "cafe",
+          "website": "https://www.cafe-renoir.co.uk/",
+          "phone": "+44 20 7485 7186"
+        }
+      },
+      {
+        "name": "McDonald's",
+        "distance_m": 97,
+        "tags": {
+          "amenity": "fast_food",
+          "cuisine": "burger",
+          "opening_hours": "Mo-Th 05:00-01:00; Fr-Sa 00:00-24:00; Su 05:00-01:00",
+          "phone": "+44 20 7267 8002",
+          "takeaway": "yes",
+          "internet_access": "wlan",
+          "brand": "McDonald's"
+        }
+      },
+      {
+        "name": "The Assembly House",
+        "distance_m": 102,
+        "tags": {
+          "amenity": "pub",
+          "website": "https://www.greeneking-pubs.co.uk/pubs/greater-london/assembly-house/",
+          "wheelchair": "limited",
+          "brand": "Greene King"
+        }
+      },
+      {
+        "name": "Lilac",
+        "distance_m": 106,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop"
+        }
+      },
+      {
+        "name": "The Old Farmhouse",
+        "distance_m": 114,
+        "tags": {
+          "amenity": "pub",
+          "cuisine": "italian",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "website": "https://www.theoldfarmhousepub.com/"
+        }
+      },
+      {
+        "name": "Berberè",
+        "distance_m": 114,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "opening_hours": "Mo-Th,Su 12:00-22:00; Fr-Sa 12:00-22:30",
+          "website": "https://www.berberepizzeria.co.uk/kentish-town/",
+          "phone": "+44 20 3417 7130",
+          "outdoor_seating": "yes",
+          "takeaway": "yes"
+        }
+      },
+      {
+        "name": "Troy Cafe Restaurant",
+        "distance_m": 121,
+        "tags": {
+          "amenity": "cafe"
+        }
+      },
+      {
+        "name": "E. Mono Restaurant",
+        "distance_m": 122,
+        "tags": {
+          "amenity": "restaurant",
+          "cuisine": "kebab",
+          "phone": "+44 20 7485 9779"
+        }
+      },
+      {
+        "name": "The Good Mews",
+        "distance_m": 133,
+        "tags": {
+          "amenity": "cafe",
+          "cuisine": "coffee_shop",
+          "opening_hours": "Mo-Fr 07:30-16:30; Sa 08:30-16:30; Su, PH 08:30-15:00",
+          "website": "https://www.thegoodmews.co.uk/",
+          "phone": "+44 7928 237555",
+          "outdoor_seating": "yes",
+          "takeaway": "yes",
+          "internet_access": "wlan",
+          "wheelchair": "yes"
+        }
+      }
+    ],
+    "slug": "lilac-296-kentish-town-road"
+  }
+}
