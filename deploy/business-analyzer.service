@@ -1,0 +1,14 @@
+[Unit]
+Description=Business Analyzer web app (local-company-hunter profile)
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/dan/.hermes/profiles/local-company-hunter/projects/business-analyzer
+ExecStart=/usr/bin/python3 server.py
+Restart=on-failure
+RestartSec=3
+Environment=BA_PORT=8765
+
+[Install]
+WantedBy=default.target
